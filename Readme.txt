@@ -7,3 +7,5 @@ This is the first file in thie repo.
 This time modifie this file. 
 Second commit is to use shortcut for adding commit
 
+## Create new file in gitBash
+$ touch file_Name
